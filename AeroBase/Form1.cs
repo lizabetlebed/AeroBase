@@ -6,5 +6,15 @@ namespace AeroBase
         {
             InitializeComponent();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblReadyDrones_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
