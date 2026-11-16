@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS drones (
+    id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    model VARCHAR(100) NOT NULL,
+    type VARCHAR(80) NOT NULL,
+    inventory_number VARCHAR(50) NOT NULL UNIQUE,
+    status VARCHAR(50) NOT NULL
+);
+
+INSERT INTO drones (name, model, type, inventory_number, status)
+VALUES
+('Учебный №1', 'UAV-001', 'Квадрокоптер', 'INV-001', 'Исправен'),
+('Учебный №2', 'UAV-002', 'Самолётный', 'INV-002', 'На ТО');

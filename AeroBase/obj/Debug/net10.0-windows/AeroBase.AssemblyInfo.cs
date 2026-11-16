@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AeroBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6b0ff0e74318ff1ee9d43702d89b6b638feb5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8739afbe12bfe7440e7f997d56576731431a41e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AeroBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AeroBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
