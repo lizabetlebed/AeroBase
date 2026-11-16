@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AeroBase\AeroBase\bin\Debug\net10.0-windows\AeroBase.exe
+C:\Users\user\source\repos\AeroBase\AeroBase\bin\Debug\net10.0-windows\AeroBase.deps.json
+C:\Users\user\source\repos\AeroBase\AeroBase\bin\Debug\net10.0-windows\AeroBase.runtimeconfig.json
+C:\Users\user\source\repos\AeroBase\AeroBase\bin\Debug\net10.0-windows\AeroBase.dll
+C:\Users\user\source\repos\AeroBase\AeroBase\bin\Debug\net10.0-windows\AeroBase.pdb
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.AssemblyInfo.cs
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.dll
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\refint\AeroBase.dll
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.pdb
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.genruntimeconfig.cache
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\ref\AeroBase.dll
+C:\Users\user\source\repos\AeroBase\AeroBase\obj\Debug\net10.0-windows\AeroBase.csproj.Up2Date
